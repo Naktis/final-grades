@@ -237,9 +237,3 @@ Sudėjus duomenų skaitymo ir rūšiavimo rezultatus, efektyviausia programoje n
 
 ## [v0.1](https://github.com/Naktis/final-grades/releases/tag/v0.1)
 - Pradinė programos versija, realizuota naudojant C - masyvus ir vektorius
-------------
-Augustina Šareikaitė
-
-Informacinių sistemų inžinerija, I kursas, I grupė
-
-Vilniaus universitetas
